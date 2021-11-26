@@ -1,0 +1,36 @@
+#main{
+    width: 30%;
+    float: left;
+    margin: 20px;
+}
+
+.uk-border-circle{
+    padding: none;
+    margin-left: 8px;
+    float: left;
+    height: 6%;
+    width: 6%;
+}
+.uk-border-circle:hover{
+    transform: scale(0.8);
+}
+.uk-border-circle1:hover{
+    transform: scale(0.8);
+}
+.uk-border-circle2:hover{
+    transform: scale(0.8);
+}
+.uk-border-circle1{
+    padding: none;
+    margin-left: 8px;
+    float: right;
+    height: 4%;
+    width: 4%;
+}
+.uk-border-circle2{
+    padding: none;
+    margin-left: 8px;
+    float: left;
+    height: 4%;
+    width: 4%;
+}
